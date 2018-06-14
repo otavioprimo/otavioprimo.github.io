@@ -1,0 +1,23 @@
+#title{
+  text-align: center;
+}
+
+#list-projects {
+  padding: 0 16px 16px 16px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+}
+
+#list-projects a {
+  font-size: 18px;
+}
+
+@media (max-width: 600px) {
+
+  #list-projects {
+    width: 100%;
+  }
+
+}
